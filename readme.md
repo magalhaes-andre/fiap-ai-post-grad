@@ -1,0 +1,1 @@
+This repository serves as records of what i learned / tested during my time on FIAP's AI for Devs Post Graduation program.
